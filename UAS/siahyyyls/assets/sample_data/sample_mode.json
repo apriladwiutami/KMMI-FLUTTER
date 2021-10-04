@@ -1,0 +1,106 @@
+{
+    "modes": [
+        {
+            "dishImage": "assets/fash_pics/hyunsuk.jpeg",
+            "title": "Everyday Fashion",
+            "subtittle": "gduewjdew",
+            "duration": "1 mins",
+            "source": "",
+            "links": "https://www.instagram.com/p/CUkwRn1IlMy/?utm_source=ig_web_copy_link",
+            "information": [
+                "Everyday Fashion is Adventure"
+            ]
+        },
+        {
+            "dishImage": "assets/fash_pics/hutabarat.jpg",
+            "title": "Edward Hutabarat",
+            "duration": "11 mins",
+            "source": "",
+            "links": "https://www.instagram.com/p/CUkwThzot1s/?utm_source=ig_web_copy_link",
+            "information": [
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "dishImage": "assets/fash_pics/Dior.jpg",
+            "title": "Dior",
+            "duration": "30 mins",
+            "source": "",
+            "links": "https://www.instagram.com/p/CUkwYIwooBt/?utm_source=ig_web_copy_link",
+            "information": [
+                "From fashion to fashion by fashion"
+            ]
+        },
+        {
+            "dishImage": "assets/fash_pics/fake.jpg",
+            "title": "Trends Fake",
+            "duration": "1 hour",
+            "source": "",
+            "links": "https://www.instagram.com/p/CUkwWqioFPs/?utm_source=ig_web_copy_link",
+            "information": [
+                "Fashion is fake"
+            ]
+        },
+        {
+            "dishImage": "assets/fash_pics/hijab.jpg",
+            "title": "Hijab Trends",
+            "duration": "30 mins",
+            "source": "",
+            "links": "https://www.instagram.com/p/CUkwVPUIypz/?utm_source=ig_web_copy_link",
+            "information": [
+                "Hijab is mandatory for Muslims"
+            ]
+        },
+        {
+            "dishImage": "assets/fash_pics/street.jpg",
+            "title": "Street Style",
+            "duration": "50 mins",
+            "source": "",
+            "links": "https://www.instagram.com/p/CUkwLweIUGI/?utm_source=ig_web_copy_link",
+            "information": [
+                "Fashion street is good"
+            ]
+        },
+        {
+            "dishImage": "assets/fash_pics/2020.jpg",
+            "title": "Summer Style",
+            "duration": "35 mins",
+            "source": "",
+            "links": "https://www.instagram.com/p/CUkwgJmomqv/?utm_source=ig_web_copy_link",
+            "information": [
+                "Favorite in 2020"
+            ]
+            
+        },
+        {
+            "dishImage": "assets/fash_pics/biggest.jpg",
+            "title": "Biggest Fashion",
+            "duration": "1 hour",
+            "source": "",
+            "links": "https://www.instagram.com/p/CUkwebIImJF/?utm_source=ig_web_copy_link",
+            "information": [
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "dishImage": "assets/fash_pics/chic.jpg",
+            "title": "Street Chic",
+            "duration": "1 hour",
+            "source": "",
+            "links": "https://www.instagram.com/p/CUkwbm4o4O4/?utm_source=ig_web_copy_link",
+            "information": [
+                "Happy fashion"
+            ]
+        },
+        {
+            "dishImage": "assets/fash_pics/clothes.jpg",
+            "title": "Clothes Penney Catalog",
+            "duration": "30 min",
+            "source": "",
+            "links": "https://www.instagram.com/p/CUkwaEiI9u5/?utm_source=ig_web_copy_link",
+            "information": [
+                "Clothes is fantastic"
+            ]
+        }
+    ]
+}
